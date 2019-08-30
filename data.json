@@ -1,0 +1,44 @@
+{
+    "name": "Nitish Dhiman",
+    "title": "Full Stack Developer, Desktop App Developer, Machine Learning Enthusiast",
+    "intro": "I am the Dev God",
+    "skills": [
+        {
+            "title": "HTML",
+            "rating": "98"
+        },
+        {
+            "title": "CSS",
+            "rating": "92"
+        },
+        {
+            "title": "JavaScript",
+            "rating": "85"
+        },
+        {
+            "title": "Node.Js",
+            "rating": "80"
+        },
+        {
+            "title": "Express",
+            "rating": "80"
+        },
+        {
+            "title": "MongoDB",
+            "rating": "90"
+        },
+        {
+            "title": "Electron",
+            "rating": "85"
+        },
+        {
+            "title": "React.Js",
+            "rating": "70"
+        }
+    ],
+    "contact": {
+        "location": "Chitkara University",
+        "phone": "9915308964",
+        "email": "dhimannitish0828@gmail.com"
+    }
+}
